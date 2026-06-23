@@ -1,6 +1,7 @@
 # Bank Management System
 
 I developed this Bank Management System as a Java Swing desktop application connected with a MySQL database. I used this project to manage a simple ATM-style banking workflow where a user can sign up, create an account, log in with a generated card number and PIN, deposit money, withdraw money, use fast cash, change PIN, and check balance.
+
 <img width="959" height="488" alt="Screenshot 2026-06-23 100012" src="https://github.com/user-attachments/assets/e21f86ab-76cf-407d-bf2c-8f61b4c3d965" />
 
 
