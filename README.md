@@ -75,12 +75,10 @@ bank.management.system.login
 
 
 
-### PIN Change Page
-<img width="953" height="455" alt="Screenshot 2026-06-23 102232" src="https://github.com/user-attachments/assets/42ed638c-cb0d-45d3-984c-2104ab8b5365" />
 
 ### Main ATM Menu
 
-<img width="959" height="464" alt="Screenshot 2026-06-23 102209" src="https://github.com/user-attachments/assets/4223d450-1e83-4acd-be58-0120a3f4e479" />
+<img width="952" height="449" alt="Screenshot 2026-06-23 101839" src="https://github.com/user-attachments/assets/8ae5a668-167b-4e29-921f-cd6a772a756d" />
 
 ### Deposit Page
 
@@ -89,6 +87,12 @@ bank.management.system.login
 ### Withdraw Page
 
 <img width="959" height="443" alt="Screenshot 2026-06-23 102153" src="https://github.com/user-attachments/assets/e3e11e2e-cf3e-482d-881f-f38b26daa686" />
+
+### PIN Change Page
+<img width="953" height="455" alt="Screenshot 2026-06-23 102232" src="https://github.com/user-attachments/assets/42ed638c-cb0d-45d3-984c-2104ab8b5365" />
+
+### Fast Cash page
+<img width="959" height="464" alt="Screenshot 2026-06-23 102209" src="https://github.com/user-attachments/assets/8305d0aa-aead-4d28-937c-f14bc1c3a312" />
 
 ### Balance Enquiry Page
 
