@@ -1,0 +1,16 @@
+*.class
+out/
+bin/
+build/
+
+.vscode/launch.json
+
+*.iml
+.idea/
+
+oracleJdk-26/
+**/oracleJdk-26/
+
+.DS_Store
+Thumbs.db
+*.log
